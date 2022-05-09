@@ -1,12 +1,1 @@
-# Town-of-Us-Russian
-Town of Us Russian
-Переведённый Town of Us на русский язык для игры Among Us
-
-# Установка
-  1) Правой кнопкой мыши по амонг ас
-  2) Далее локальные файлы
-  3) Скачиваем архив
-  4) Распаковываем всё содержимое в корневую папку Among Us
-
-# Баги и ошибки
-На данный момент замечена одна неудобность: при настройке ролей, каждое нажатие вызывает микро-зависание игры
+Note: This repository is an unofficial continuation of Town of Us due to the original repository being discontinued.
